@@ -1,3 +1,4 @@
 <h1>This is react project </h1>
-fetched API from https://openweathermap.org/ 
+fetched API from <b> https://openweathermap.org/ </b>
+<hr>
 #Weather App
